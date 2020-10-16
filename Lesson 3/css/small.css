@@ -47,6 +47,14 @@ p {
     padding-bottom: 15px;
 }
 
+.joe-smith-about {
+        max-width: 20px;
+}
+
+.pam-steeley-about {
+    max-width: 20px;
+}
+
 #logo {
     max-width: 33%;
 }
