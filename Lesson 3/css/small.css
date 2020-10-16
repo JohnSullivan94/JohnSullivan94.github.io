@@ -49,10 +49,12 @@ p {
 
 .joe-smith-about {
         max-width: 20px;
+        text-align: justify;
 }
 
 .pam-steeley-about {
     max-width: 20px;
+    text-align: justify;
 }
 
 #logo {
