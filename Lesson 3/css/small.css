@@ -145,6 +145,7 @@ img {
 }
 
 .caption {
+    margin: 20px;
     padding-left: 25%;
     padding-right: 25%;
 }
